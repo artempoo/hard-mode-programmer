@@ -65,8 +65,8 @@
 
 **Чужой код**
 
-- [ ] **C (после своей реализации массива):** [tidwall/buf.c — buf.c](https://github.com/tidwall/buf.c/blob/master/buf.c) — первые 40–60 строк или целиком. Прочитать → закрыть → переписать логику роста буфера сам → сравнить.
-- [ ] **Или JS:** [Ramda filter.js](https://github.com/ramda/ramda/blob/master/source/filter.js). Прочитать → закрыть → переписать логику сам → сравнить.
+- [x] **C (после своей реализации массива):** [tidwall/buf.c — buf.c](https://github.com/tidwall/buf.c/blob/master/buf.c) — первые 40–60 строк или целиком. Прочитать → закрыть → переписать логику роста буфера сам → сравнить.
+- [x] **Или JS:** [Ramda filter.js](https://github.com/ramda/ramda/blob/master/source/filter.js). Прочитать → закрыть → переписать логику сам → сравнить.
 
 **Лог:** что сделал, что сломал, что понял.
 
